@@ -1,0 +1,1852 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  ~ @package   JEDSample
+  ~ @copyright Copyright (c)2022 Nicholas K. Dionysopoulos
+  ~ @license   GNU General Public License version 2, or later
+  -->
+
+<div class="jed-home-categories">
+    <div class="row">
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=33">
+                            Photos &amp; Images</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">620</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=135">
+                            Slideshow</a>
+                        <span class=" badge-info">	262</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=303">
+                            Galleries</a>
+                        <span class=" badge-info">	134</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=67">
+                            Images</a>
+                        <span class=" badge-info">	85</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=304">
+                            Rotators</a>
+                        <span class=" badge-info">	55</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=142">
+                            Panorama</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=98">
+                            eCards</a>
+                        <span class=" badge-info">	1</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=12">
+                            News Display</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">451</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=126">
+                            Articles Display</a>
+                        <span class=" badge-info">	288</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=127">
+                            Article Elements</a>
+                        <span class=" badge-info">	41</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=229">
+                            Tables &amp; Lists</a>
+                        <span class=" badge-info">	37</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=125">
+                            Content infos</a>
+                        <span class=" badge-info">	19</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=110">
+                            Quotes</a>
+                        <span class=" badge-info">	14</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=232">
+                            Notes</a>
+                        <span class=" badge-info">	11</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=158">
+                            Popular Content</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=206">
+                            Reading lists</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=39">
+                            Social Web</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">443</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=284">
+                            Social Display</a>
+                        <span class=" badge-info">	188</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=285">
+                            Social Share</a>
+                        <span class=" badge-info">	86</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=287">
+                            Social Media</a>
+                        <span class=" badge-info">	84</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=286">
+                            Social Presence</a>
+                        <span class=" badge-info">	29</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=238">
+                            Social Comments</a>
+                        <span class=" badge-info">	27</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=325">
+                            Social Content Locks</a>
+                        <span class=" badge-info">	8</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=320">
+                            Social Buying</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=288">
+                            Social Edition</a>
+                        <span class=" badge-info">	1</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=321">
+                            Social Gamification</a>
+                        <span class=" badge-info">	1</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=27">
+                            Style &amp; Design</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">297</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=136">
+                            Popups &amp; iFrames</a>
+                        <span class=" badge-info">	73</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=281">
+                            Modules Panel</a>
+                        <span class=" badge-info">	49</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=131">
+                            Design</a>
+                        <span class=" badge-info">	41</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=305">
+                            Page Background</a>
+                        <span class=" badge-info">	18</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=164">
+                            Print &amp; PDF</a>
+                        <span class=" badge-info">	17</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=178">
+                            Templating</a>
+                        <span class=" badge-info">	17</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=204">
+                            Articles styling</a>
+                        <span class=" badge-info">	15</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=240">
+                            Modules Management</a>
+                        <span class=" badge-info">	15</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=132">
+                            Typography</a>
+                        <span class=" badge-info">	13</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=59">
+                            Accessibility</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=157">
+                            Modules Styling</a>
+                        <span class=" badge-info">	6</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=196">
+                            Personal Layout</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=179">
+                            Titles</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=23">
+                            Access &amp; Security</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">258</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=139">
+                            Site Access</a>
+                        <span class=" badge-info">	112</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=138">
+                            Site Security</a>
+                        <span class=" badge-info">	67</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=31">
+                            Site Management</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">250</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=290">
+                            Analytics</a>
+                        <span class=" badge-info">	80</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=140">
+                            SEO &amp; Metadata</a>
+                        <span class=" badge-info">	79</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=307">
+                            Cookie Control</a>
+                        <span class=" badge-info">	39</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=172">
+                            URL Redirection</a>
+                        <span class=" badge-info">	14</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=84">
+                            SEF</a>
+                        <span class=" badge-info">	10</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=133">
+                            Site Links</a>
+                        <span class=" badge-info">	9</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=200">
+                            Browsers &amp; Web Standards</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=295">
+                            Short URL</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=128">
+                            Error pages</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=32">
+                            Contacts &amp; Feedback</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">201</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=51">
+                            Contact forms</a>
+                        <span class=" badge-info">	56</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=197">
+                            Testimonials &amp; Suggestions</a>
+                        <span class=" badge-info">	37</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=74">
+                            Forms</a>
+                        <span class=" badge-info">	29</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=198">
+                            Contact Details</a>
+                        <span class=" badge-info">	16</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=52">
+                            Articles comments</a>
+                        <span class=" badge-info">	13</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=89">
+                            Polls</a>
+                        <span class=" badge-info">	12</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=143">
+                            Email</a>
+                        <span class=" badge-info">	11</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=88">
+                            Surveys</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=298">
+                            Opening Hours</a>
+                        <span class=" badge-info">	6</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=69">
+                            Guest Book</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=165">
+                            Greetings</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=14">
+                            e-Commerce</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">198</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=180">
+                            Payment Gateway</a>
+                        <span class=" badge-info">	42</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=82">
+                            Shopping Cart</a>
+                        <span class=" badge-info">	34</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=45">
+                            Donations</a>
+                        <span class=" badge-info">	26</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=214">
+                            e-Commerce Integrations</a>
+                        <span class=" badge-info">	22</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=243">
+                            Paid Downloads</a>
+                        <span class=" badge-info">	16</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=118">
+                            Membership &amp; Subscriptions</a>
+                        <span class=" badge-info">	14</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=57">
+                            Auction</a>
+                        <span class=" badge-info">	8</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=60">
+                            Billing &amp; Invoices</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=163">
+                            Payment systems</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=276">
+                            Gifts &amp; Coupons</a>
+                        <span class=" badge-info">	6</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=311">
+                            Credits &amp; Point Systems</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=318">
+                            Sales quote</a>
+                        <span class=" badge-info">	1</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=15">
+                            Core Enhancements</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">188</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=302">
+                            Coding &amp; Scripts Integration</a>
+                        <span class=" badge-info">	64</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=299">
+                            Performance</a>
+                        <span class=" badge-info">	64</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=61">
+                            File Management</a>
+                        <span class=" badge-info">	23</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=95">
+                            Data Reports</a>
+                        <span class=" badge-info">	18</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=64">
+                            Multiple Sites</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=167">
+                            Installers</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=134">
+                            Flash Management</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=289">
+                            Libraries</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=36">
+                            Structure &amp; Navigation</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">178</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=65">
+                            Menu Systems</a>
+                        <span class=" badge-info">	104</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=156">
+                            Site Navigation</a>
+                        <span class=" badge-info">	42</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=230">
+                            Content Links</a>
+                        <span class=" badge-info">	12</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=81">
+                            Site Map</a>
+                        <span class=" badge-info">	12</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=55">
+                            Sections &amp; Categories</a>
+                        <span class=" badge-info">	6</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=190">
+                            Multi Categorization</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=17">
+                            Multimedia</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">169</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=246">
+                            Multimedia Players</a>
+                        <span class=" badge-info">	85</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=150">
+                            Multimedia Display</a>
+                        <span class=" badge-info">	51</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=245">
+                            Streaming &amp; Broadcasting</a>
+                        <span class=" badge-info">	21</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=34">
+                            Authoring &amp; Content</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">161</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=209">
+                            Content Construction</a>
+                        <span class=" badge-info">	56</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=10496">
+                            Custom Fields</a>
+                        <span class=" badge-info">	33</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=184">
+                            Content Submission</a>
+                        <span class=" badge-info">	13</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=314">
+                            Article Preview</a>
+                        <span class=" badge-info">	11</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=56">
+                            Blog</a>
+                        <span class=" badge-info">	9</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=208">
+                            Timed Content</a>
+                        <span class=" badge-info">	9</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=96">
+                            Admin Publishing</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=315">
+                            Archive</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=162">
+                            Microblogging</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=183">
+                            Planned Content</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=273">
+                            Blog integration</a>
+                        <span class=" badge-info">	1</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=19">
+                            Communication</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">151</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=54">
+                            Chat</a>
+                        <span class=" badge-info">	35</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=188">
+                            Live Support</a>
+                        <span class=" badge-info">	31</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=241">
+                            Live Support - hosted</a>
+                        <span class=" badge-info">	22</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=63">
+                            Forum</a>
+                        <span class=" badge-info">	11</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=212">
+                            Video conference</a>
+                        <span class=" badge-info">	9</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=270">
+                            Question &amp; Answers</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=102">
+                            Online Status</a>
+                        <span class=" badge-info">	6</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=170">
+                            Instant Messaging</a>
+                        <span class=" badge-info">	5</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=159">
+                            Forum Bridges</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=181">
+                            Phone &amp; SMS</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=222">
+                            Chat - hosted</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=103">
+                            PMS</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=160">
+                            Forum add-ons. Autonomous</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=104">
+                            Shoutbox</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=35">
+                            Clients &amp; Communities</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">133</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=78">
+                            User Management</a>
+                        <span class=" badge-info">	43</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=87">
+                            Ratings &amp; Reviews</a>
+                        <span class=" badge-info">	37</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=68">
+                            Help Desk</a>
+                        <span class=" badge-info">	19</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=72">
+                            Communities</a>
+                        <span class=" badge-info">	12</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=189">
+                            Members lists</a>
+                        <span class=" badge-info">	10</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=105">
+                            Project &amp; Task Management</a>
+                        <span class=" badge-info">	10</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=11">
+                            Calendars &amp; Events</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">132</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=251">
+                            Events</a>
+                        <span class=" badge-info">	85</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=252">
+                            Time</a>
+                        <span class=" badge-info">	24</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=40">
+                            Maps &amp; Weather</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">132</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=226">
+                            Maps &amp; Locations</a>
+                        <span class=" badge-info">	78</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=228">
+                            Weather</a>
+                        <span class=" badge-info">	39</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=227">
+                            Geotagging</a>
+                        <span class=" badge-info">	9</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=16">
+                            Ads &amp; Affiliates</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">128</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=58">
+                            Banner Management</a>
+                        <span class=" badge-info">	51</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=283">
+                            Affiliate Systems</a>
+                        <span class=" badge-info">	23</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=278">
+                            Sponsors</a>
+                        <span class=" badge-info">	11</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=199">
+                            Jobs &amp; Recruitment</a>
+                        <span class=" badge-info">	10</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=53">
+                            Classified Ads</a>
+                        <span class=" badge-info">	9</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=176">
+                            Corner Banners</a>
+                        <span class=" badge-info">	9</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=120">
+                            Text &amp; Link Ads</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=18">
+                            Directory &amp; Documentation</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">123</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=109">
+                            Portfolio</a>
+                        <span class=" badge-info">	40</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=46">
+                            Downloads</a>
+                        <span class=" badge-info">	27</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=47">
+                            Directory</a>
+                        <span class=" badge-info">	18</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=43">
+                            FAQ</a>
+                        <span class=" badge-info">	13</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=231">
+                            Cloud Storage</a>
+                        <span class=" badge-info">	8</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=144">
+                            Weblinks</a>
+                        <span class=" badge-info">	6</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=70">
+                            Glossary</a>
+                        <span class=" badge-info">	5</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=280">
+                            Address Book</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=42">
+                            Marketing</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">91</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=193">
+                            Mailing &amp; Newsletter bridges</a>
+                        <span class=" badge-info">	26</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=62">
+                            Newsletter</a>
+                        <span class=" badge-info">	13</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=192">
+                            CRM bridges</a>
+                        <span class=" badge-info">	12</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=49">
+                            CRM</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=301">
+                            Landing pages</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=115">
+                            Mailing &amp; Distribution Lists</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=10497">
+                            Adwords Management</a>
+                        <span class=" badge-info">	1</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=26">
+                            Vertical Markets</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">85</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=253">
+                            Booking &amp; Reservations</a>
+                        <span class=" badge-info">	44</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=86">
+                            Food &amp; Beverage</a>
+                        <span class=" badge-info">	11</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=85">
+                            Real Estate</a>
+                        <span class=" badge-info">	11</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=73">
+                            Thematic Directory</a>
+                        <span class=" badge-info">	9</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=106">
+                            Vehicles</a>
+                        <span class=" badge-info">	8</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=41">
+                            Living</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">78</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=225">
+                            Education &amp; Culture</a>
+                        <span class=" badge-info">	37</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=108">
+                            Religion</a>
+                        <span class=" badge-info">	16</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=155">
+                            Alerts &amp; Awareness</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=75">
+                            Religious events</a>
+                        <span class=" badge-info">	5</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=274">
+                            Health</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=121">
+                            Personal Life</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=236">
+                            Dating &amp; Relationships</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=249">
+                            Unit Converter</a>
+                        <span class=" badge-info">	1</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=20">
+                            Administration</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">69</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=216">
+                            Admin Navigation</a>
+                        <span class=" badge-info">	26</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=217">
+                            Admin Reports</a>
+                        <span class=" badge-info">	11</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=219">
+                            Admin Performance</a>
+                        <span class=" badge-info">	9</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=267">
+                            Admin Styling</a>
+                        <span class=" badge-info">	6</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=215">
+                            Extensions Quick Icons</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=9">
+                            Miscellaneous</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">69</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=93">
+                            Development</a>
+                        <span class=" badge-info">	22</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=291">
+                            Offline</a>
+                        <span class=" badge-info">	9</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=50">
+                            Mass Content</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=264">
+                            Fake data</a>
+                        <span class=" badge-info">	6</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=250">
+                            Tutorials</a>
+                        <span class=" badge-info">	6</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=213">
+                            Miscellaneous Bridges</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=13">
+                            Search &amp; Indexing</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">68</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=92">
+                            Site Search</a>
+                        <span class=" badge-info">	29</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=137">
+                            Tags &amp; Clouds</a>
+                        <span class=" badge-info">	18</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=147">
+                            Directories Search</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=145">
+                            Extensions Search</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=148">
+                            Search Results</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=149">
+                            Domain Search</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=146">
+                            Web Search</a>
+                        <span class=" badge-info">	1</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=22">
+                            Financial</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">48</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=97">
+                            Currency &amp; Exchange</a>
+                        <span class=" badge-info">	21</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=166">
+                            Calculators</a>
+                        <span class=" badge-info">	9</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=275">
+                            Cost Calculators</a>
+                        <span class=" badge-info">	8</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=111">
+                            Stock Market</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=168">
+                            Taxes &amp; Mortgages</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=28">
+                            Editing</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">41</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=77">
+                            Replace</a>
+                        <span class=" badge-info">	14</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=122">
+                            Editor Buttons</a>
+                        <span class=" badge-info">	12</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=44">
+                            Editors</a>
+                        <span class=" badge-info">	12</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=37">
+                            Migration &amp; Conversion</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">41</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=48">
+                            Data Import &amp; Export</a>
+                        <span class=" badge-info">	23</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=203">
+                            Users Import &amp; Export</a>
+                        <span class=" badge-info">	11</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=202">
+                            Joomla Migration</a>
+                        <span class=" badge-info">	6</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=201">
+                            Extensions Migration</a>
+                        <span class=" badge-info">	1</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=29">
+                            Mobile</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">35</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=220">
+                            QR Code</a>
+                        <span class=" badge-info">	11</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=171">
+                            Mobile Display</a>
+                        <span class=" badge-info">	10</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=247">
+                            Mobile Apps</a>
+                        <span class=" badge-info">	8</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=248">
+                            Apple Display</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=223">
+                            Mobile Production</a>
+                        <span class=" badge-info">	1</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=30">
+                            Sports &amp; Games</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">32</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=151">
+                            Sports</a>
+                        <span class=" badge-info">	9</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=153">
+                            Tips &amp; Betts</a>
+                        <span class=" badge-info">	6</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=66">
+                            Games</a>
+                        <span class=" badge-info">	5</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=152">
+                            Board &amp; Table Games</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=182">
+                            World of Warcraft Game</a>
+                        <span class=" badge-info">	2</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=294">
+                            Role-playing</a>
+                        <span class=" badge-info">	1</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=174">
+                            Scores &amp; Results</a>
+                        <span class=" badge-info">	1</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=10">
+                            Languages</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">28</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=91">
+                            Multi-lingual Content</a>
+                        <span class=" badge-info">	13</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=113">
+                            Automatic translations</a>
+                        <span class=" badge-info">	7</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=244">
+                            Language Edition</a>
+                        <span class=" badge-info">	4</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=38">
+                            Content Sharing</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">27</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=119">
+                            Bookmark &amp; Recommend</a>
+                        <span class=" badge-info">	9</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=210">
+                            Articles Sharing</a>
+                        <span class=" badge-info">	8</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=141">
+                            RSS Syndicate</a>
+                        <span class=" badge-info">	6</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=21">
+                            Hosting &amp; Servers</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">15</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=94">
+                            Database Management</a>
+                        <span class=" badge-info">	6</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=83">
+                            Servers</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=300">
+                            Site speed</a>
+                        <span class=" badge-info">	3</span>
+                    </li>
+
+                    <li class="jed-home-subcategories-child had-items">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=79">
+                            Hosting</a>
+                        <span class=" badge-info">	1</span>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="col jed-home-category">
+            <div class="jed-home-item-view">
+                <div class="jed-home-item-title">
+                    <div class="jed-home-category-icon-box">
+                        <span class="jed-home-category-icon fa fa-camera"></span>
+                    </div>
+                    <h4 class="jed-home-category-title">
+                        <a href="/j4-final/index.php?option=com_jed&amp;view=extensions&amp;catid=332">
+                            Official Extensions</a>
+                    </h4>
+                    <span class="jed-home-category-icon-numitems ">2</span>
+                </div>
+                <ul class="jed-home-subcategories unstyled">
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</div>
