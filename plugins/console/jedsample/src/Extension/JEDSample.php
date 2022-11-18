@@ -10,12 +10,12 @@ namespace Joomla\Plugin\Console\JEDSample\Extension;
 use Joomla\Application\AbstractApplication;
 use Joomla\Application\ApplicationEvents;
 use Joomla\Application\Event\ApplicationEvent;
-use Joomla\CMS\Language\Text;
 use Joomla\CMS\Plugin\CMSPlugin;
 use Joomla\Database\DatabaseAwareInterface;
 use Joomla\Database\DatabaseAwareTrait;
 use Joomla\Event\SubscriberInterface;
 use Joomla\Plugin\Console\JEDSample\Command\CreateCategories;
+use Joomla\Plugin\Console\JEDSample\Command\CreateUsers;
 use Throwable;
 
 class JEDSample extends CMSPlugin implements SubscriberInterface, DatabaseAwareInterface
@@ -24,6 +24,7 @@ class JEDSample extends CMSPlugin implements SubscriberInterface, DatabaseAwareI
 
 	private static $commands = [
 		CreateCategories::class,
+		CreateUsers::class,
 	];
 
 	public static function getSubscribedEvents(): array

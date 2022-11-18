@@ -22,6 +22,42 @@ class RandomWords
 		$this->init();
 	}
 
+	public function randomElement(array $array): mixed
+	{
+		$arrayValues = array_values($array);
+
+		return $arrayValues[random_int(0, count($array) - 1)];
+	}
+
+	public function company(): string
+	{
+		$suffixes = [
+			' Ltd',
+			' SàRL',
+			' SA',
+			' LP',
+			' GP',
+			' Pty Ltd',
+			' Pty',
+			' LLC',
+			' Corp.',
+			' KGaA',
+			' GmbH',
+			' K/S',
+			' e.V.',
+			' A.G.',
+			' Ky',
+			' Oy',
+			' Oyj',
+			' OOD',
+			' SD',
+		];
+
+		$suffix = $this->randomElement($suffixes);
+		$word   = random_int(0, 1) ? $this->word() : $this->combo();
+
+		return $word . $suffix;
+	}
 
 	public function adjective(): string
 	{
@@ -119,7 +155,7 @@ class RandomWords
 			'example.org',
 		];
 
-		return $domains[random_int(0, 2)];
+		return $this->randomElement($domains);
 	}
 
 	private function init()
@@ -166,6 +202,6 @@ class RandomWords
 			'workflow',
 		];
 
-		return $folders[random_int(0, 22)];
+		return $this->randomElement($folders);
 	}
 }
