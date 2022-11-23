@@ -7,6 +7,9 @@
 
 namespace Joomla\Plugin\Console\JEDSample\Util;
 
+use DateInterval;
+use DateTime;
+use Joomla\CMS\Date\Date;
 use Joomla\CMS\User\User;
 
 class RandomWords
@@ -19,14 +22,70 @@ class RandomWords
 
 	public function __construct()
 	{
-		$this->init();
+		$this->adjectives = json_decode(file_get_contents(__DIR__ . '/../../data/adjectives.json'));
+		$this->nouns      = json_decode(file_get_contents(__DIR__ . '/../../data/nouns.json'));
+		$this->words      = json_decode(file_get_contents(__DIR__ . '/../../data/words.json'));
 	}
 
-	public function randomElement(array $array): mixed
+	public function date(int|string|DateTime $from = 0, int|string|DateTime $to = 'now'): Date
 	{
-		$arrayValues = array_values($array);
+		$dateFrom = $this->toDate($from);
+		$dateTo   = $this->toDate($to);
 
-		return $arrayValues[random_int(0, count($array) - 1)];
+		if ($dateTo < $dateFrom)
+		{
+			return $dateFrom;
+		}
+
+		$randomSeconds = random_int(0, $dateTo->getTimestamp() - $dateFrom->getTimestamp());
+
+		return $dateFrom->add(new DateInterval('PT'  . $randomSeconds . 'S'));
+	}
+
+	private function toDate(int|float|string|DateTime $from)
+	{
+		if (is_integer($from) || is_float($from) || is_numeric($from))
+		{
+			return new Date('@' . $from);
+		}
+
+		if (is_string($from))
+		{
+			return new Date($from);
+		}
+
+		return new Date($from->format(\DateTimeInterface::RFC3339));
+	}
+
+	public function adjective(): string
+	{
+		static $count = null;
+
+		$count = $count ?? count($this->adjectives);
+
+		return $this->adjectives[random_int(0, $count - 1)];
+	}
+
+	public function bool(float $chancePercent): bool
+	{
+		$chancePercent = max(0, min($chancePercent, 100));
+
+		if ($chancePercent < 0.001)
+		{
+			return false;
+		}
+
+		if ($chancePercent > 99.999)
+		{
+			return true;
+		}
+
+		return random_int(0, 10000) <= ($chancePercent * 100);
+	}
+
+	public function combo()
+	{
+		return ucfirst($this->adjective()) . ' ' . ucfirst($this->noun());
 	}
 
 	public function company(): string
@@ -59,20 +118,6 @@ class RandomWords
 		return $word . $suffix;
 	}
 
-	public function adjective(): string
-	{
-		static $count = null;
-
-		$count = $count ?? count($this->adjectives);
-
-		return $this->adjectives[random_int(0, $count - 1)];
-	}
-
-	public function combo()
-	{
-		return ucfirst($this->adjective()) . ' ' . ucfirst($this->noun());
-	}
-
 	public function component(): object
 	{
 		$title = $this->word();
@@ -82,6 +127,24 @@ class RandomWords
 			'title' => $title,
 			'slug'  => $slug,
 		];
+	}
+
+	public function int(int $min, int $max, Bias $bias = Bias::UNBIASED, int $maxRepetitions = 100): int
+	{
+		$fn = $bias->bias();
+
+		for ($i = 0; $i < $maxRepetitions; $i++)
+		{
+			$int         = random_int($min, $max);
+			$probability = $fn($int / $max);
+
+			if ($this->bool($probability))
+			{
+				return $int;
+			}
+		}
+
+		return $int;
 	}
 
 	public function module(): object
@@ -128,6 +191,13 @@ class RandomWords
 		];
 	}
 
+	public function randomElement(array $array): mixed
+	{
+		$arrayValues = array_values($array);
+
+		return $arrayValues[random_int(0, count($array) - 1)];
+	}
+
 	public function user(): User
 	{
 		$user           = new User();
@@ -136,6 +206,25 @@ class RandomWords
 		$user->email    = $user->username . '@' . $this->emailDomain();
 
 		return $user;
+	}
+
+	public function version($maxVersion = '10.9.23'): string
+	{
+		[$maxVersion, $maxPatch] = explode('-', $maxVersion);
+		$versionParts = explode('.', $maxVersion);
+
+		$version = random_int(1, (int) $versionParts[0] ?: 10) . '.' .
+			random_int(0, (int) ($versionParts[1] ?? 9)) . '.' .
+			random_int(0, (int) ($versionParts[2] ?? 23));
+
+		if (!empty($maxPatch) && $this->bool(10))
+		{
+			$maxPatch = (int) substr($maxPatch, 1) ?: 5;
+
+			$version .= '-p' . random_int(1, $maxPatch);
+		}
+
+		return $version;
 	}
 
 	public function word(): string
@@ -156,22 +245,6 @@ class RandomWords
 		];
 
 		return $this->randomElement($domains);
-	}
-
-	private function init()
-	{
-		static $hasInitialised = false;
-
-		if ($hasInitialised)
-		{
-			return;
-		}
-
-		$hasInitialised = true;
-
-		$this->adjectives = json_decode(file_get_contents(__DIR__ . '/../../data/adjectives.json'));
-		$this->nouns      = json_decode(file_get_contents(__DIR__ . '/../../data/nouns.json'));
-		$this->words      = json_decode(file_get_contents(__DIR__ . '/../../data/words.json'));
 	}
 
 	private function pluginFolder()

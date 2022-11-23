@@ -3,6 +3,10 @@
   <component name="PhpIncludePathManager">
     <include_path>
       <path value="$USER_HOME$/Sites/jed4" />
+      <path value="$PROJECT_DIR$/plugins/console/jedsample/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/plugins/console/jedsample/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/plugins/console/jedsample/vendor/composer" />
+      <path value="$PROJECT_DIR$/plugins/console/jedsample/vendor/fakerphp/faker" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />

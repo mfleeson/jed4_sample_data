@@ -15,6 +15,7 @@ use Joomla\Database\DatabaseAwareInterface;
 use Joomla\Database\DatabaseAwareTrait;
 use Joomla\Event\SubscriberInterface;
 use Joomla\Plugin\Console\JEDSample\Command\CreateCategories;
+use Joomla\Plugin\Console\JEDSample\Command\CreateExtensions;
 use Joomla\Plugin\Console\JEDSample\Command\CreateUsers;
 use Throwable;
 
@@ -25,6 +26,7 @@ class JEDSample extends CMSPlugin implements SubscriberInterface, DatabaseAwareI
 	private static $commands = [
 		CreateCategories::class,
 		CreateUsers::class,
+		CreateExtensions::class,
 	];
 
 	public static function getSubscribedEvents(): array
