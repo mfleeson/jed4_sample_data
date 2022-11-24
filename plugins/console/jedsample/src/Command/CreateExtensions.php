@@ -151,8 +151,8 @@ class CreateExtensions extends \Joomla\Console\Command\AbstractCommand
 		$this->randomImage->saveImage(JPATH_ROOT . '/images/jed_logos', $fileName);
 
 		$includesExtTypes = $this->getChanceWeighedArrayElements(
-			['C' => 70, 'M' => 50, 'P' => 20],
-			'C'
+			['com' => 70, 'mod' => 50, 'plugin' => 20],
+			'com'
 		);
 		$record           = (object) [
 			'title'                 => $title,
