@@ -129,11 +129,11 @@ class CreateExtensions extends \Joomla\Console\Command\AbstractCommand
 		// Joomla versions supported
 		$jVersions = $this->getChanceWeighedArrayElements(
 			[
-				'3' => 30,
-				'4' => 75,
-				'5' => 5,
+				'30' => 30,
+				'40' => 75,
+				'51' => 5,
 			],
-			'4'
+			'40'
 		);
 
 		$created = $this->randomWords->date($developer->registerDate, '-1 week');
